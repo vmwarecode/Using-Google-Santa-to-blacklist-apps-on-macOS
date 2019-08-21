@@ -1,1 +1,0 @@
-# Using-Google-Santa-to-blacklist-apps-on-macOS
